@@ -222,3 +222,4 @@ export const mathMl = [
 ];
 
 export const text = ['#text'];
+export const proton = ['proton-src'];
